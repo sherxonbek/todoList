@@ -6,6 +6,10 @@
 </head>
 <body>
 
+<h1 align="center">
+    Loyhani ko`rish uchun pastdagi tugmani bosing !
+</h1>
+
 <p align="center">
   <a href="https://todo-list-git-main-sherxons-projects.vercel.app/">
     <img src="https://img.shields.io/badge/View%20Project-00FFB2?style=for-the-badge&logo=vercel&logoColor=black" />
